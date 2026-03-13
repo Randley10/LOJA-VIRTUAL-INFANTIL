@@ -6,7 +6,7 @@ Este repositório contém a modelagem e os scripts necessários para o sistema d
 
  Projeto: Loja Virtual Infantil
 
-Este repositório contém a modelagem e a implementação do banco de dados para uma loja virtual focada em produtos infantis, desenvolvida como parte do projeto acadêmico da **UFMS**.
+Este repositório contém a modelagem e a implementação do banco de dados para uma loja virtual focada em produtos infantis, desenvolvida como parte do projeto acadêmico da **AEMS**.
 
  1. Dicionário de Dados
 
@@ -54,5 +54,5 @@ Como utilizar
 1. Execute o arquivo `script_criacao.sql` no seu servidor MySQL para criar o banco e as tabelas.
 2. Utilize o Dicionário de Dados acima como referência para futuras consultas e manutenções.
 
-**Desenvolvido por:** RUDSON RAFAEL ALVES RIBEIRO  
+**Desenvolvido por:** RUDSON RAFAEL ALVES RIBEIRO, RANDLEY GABRIEL DA SILVA LIMA
 **Instituição:** AEMS - Três Lagoas
